@@ -1,14 +1,14 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld", "HelloWorld\HelloWorld.csproj", "{A47800A6-1A37-4C2B-8AC9-928CE4CD9EC6}"
-EndProject
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DB Scripts", "DB Scripts", "{3F742592-6D40-40F9-8B82-742CE3881311}"
 	ProjectSection(SolutionItems) = preProject
 		DataInsert.sql = DataInsert.sql
 		SchemaCreation.sql = SchemaCreation.sql
 		SchemaDrop.sql = SchemaDrop.sql
 	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld", "HelloWorld\HelloWorld.csproj", "{A47800A6-1A37-4C2B-8AC9-928CE4CD9EC6}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnotherDataModel", "AnotherDataModel\AnotherDataModel.csproj", "{6A7DF766-6AB9-438F-80A0-1B8752AB9DAA}"
 EndProject
